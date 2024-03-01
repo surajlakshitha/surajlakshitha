@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajlakshitha&label=Profile%20views&color=0e75b6&style=flat" alt="surajlakshitha" /> </p>
 
-<p align="left"> <a href="https://twitter.com/surajlakshitha" target="blank"><img src="https://img.shields.io/twitter/follow/surajlakshitha?logo=twitter&style=for-the-badge" alt="surajlakshitha" /></a> </p>
-
 - 📫 How to reach me **info.surajlakshitha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
