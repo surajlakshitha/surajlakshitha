@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suraj Lakshitha</h1>
-<h3 align="center">I am an Undergraduate Software Engineer.</h3>
+<h1 align="center">Hi 👋, I'm Suraj Lakshitha Bandara</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajlakshitha&label=Profile%20views&color=0e75b6&style=flat" alt="surajlakshitha" /> </p>
 
